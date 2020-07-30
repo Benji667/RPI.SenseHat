@@ -1,4 +1,6 @@
-# RPI.SenseHat
+# LabVIEW Raspberry Pi Sense Hat Libraries
+
+## RPI.SenseHat
 
 The Rpi.SenseHat is the main library. It contains an API to the Raspberry Sense HAT in LabVIEW. 
 
