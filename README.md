@@ -1,5 +1,11 @@
 # LabVIEW Raspberry Pi Sense Hat Libraries
 
+## RPI
+
+LabVIEW code handling built in devices on a Raspberry Pi.
+### mainI2CDevice
+LabVIEW Classe that encapsulates built in I2C communication VIs from LINX toolkit.
+
 ## RPI.SenseHat
 
 The Rpi.SenseHat is the main library. It contains an API to the Raspberry Sense HAT in LabVIEW. 
