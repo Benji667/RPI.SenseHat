@@ -92,13 +92,10 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
-		<Item Name="RPI.SenseHat.Display.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Display/RPI.SenseHat.Display.lvlib"/>
 		<Item Name="RPI.SenseHat.Joystick.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Joystick/RPI.SenseHat.Joystick.lvlib"/>
-		<Item Name="RPI.SenseHat.lvlib" Type="Library" URL="../../src/RPI.SenseHat/RPI.SenseHat.lvlib"/>
-		<Item Name="Test SenseHat Lib.vi" Type="VI" URL="../RPI.SenseHat_Tests/Test SenseHat Lib.vi"/>
+		<Item Name="Test SenseHat.Joystick.vi" Type="VI" URL="../RPI.SenseHat.Joystick_Tests/Test SenseHat.Joystick.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="liblinxdevice.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/LINX/Resources/liblinxdevice.dll"/>
 				<Item Name="LMH-LINX.lvlib" Type="Library" URL="/&lt;vilib&gt;/MakerHub/LINX/LMH-LINX.lvlib"/>

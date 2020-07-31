@@ -94,6 +94,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="RPI.lvlib" Type="Library" URL="../RPI/RPI.lvlib"/>
 		<Item Name="RPI.SenseHat.Display.lvlib" Type="Library" URL="../RPI.SenseHat.Display/RPI.SenseHat.Display.lvlib"/>
+		<Item Name="RPI.SenseHat.Joystick.lvlib" Type="Library" URL="../RPI.SenseHat.Joystick/RPI.SenseHat.Joystick.lvlib"/>
 		<Item Name="RPI.SenseHat.lvlib" Type="Library" URL="../RPI.SenseHat/RPI.SenseHat.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
