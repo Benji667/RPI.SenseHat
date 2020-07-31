@@ -13,6 +13,7 @@
 		<Item Name="RPI.SenseHat.Display.lvclass" Type="LVClass" URL="../Classes/SenseHat.Display/RPI.SenseHat.Display.lvclass"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Color 2D Array To Image.vi" Type="VI" URL="../SubVIs/Color 2D Array To Image.vi"/>
 		<Item Name="Convert Direction Parameters.vi" Type="VI" URL="../SubVIs/Convert Direction Parameters.vi"/>
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
