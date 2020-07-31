@@ -40,7 +40,7 @@
 		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
 		<Property Name="target.RTTarget.EnableFileSharing" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.IPAccess" Type="Str">+*</Property>
-		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">true</Property>
+		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">false</Property>
 		<Property Name="target.RTTarget.VIPath" Type="Path">/home/lvuser/natinst/bin</Property>
 		<Property Name="target.server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -91,12 +91,15 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="Arrows.vi" Type="VI" URL="../RPI.SenseHat_Tests/Arrows.vi"/>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="globalArrows.vi" Type="VI" URL="../RPI.SenseHat_Tests/globalArrows.vi"/>
+			<Item Name="Joystick Key To Displayed Arrow.vi" Type="VI" URL="../RPI.SenseHat_Tests/Joystick Key To Displayed Arrow.vi"/>
+		</Item>
 		<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
 		<Item Name="RPI.SenseHat.Display.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Display/RPI.SenseHat.Display.lvlib"/>
 		<Item Name="RPI.SenseHat.Joystick.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Joystick/RPI.SenseHat.Joystick.lvlib"/>
 		<Item Name="RPI.SenseHat.lvlib" Type="Library" URL="../../src/RPI.SenseHat/RPI.SenseHat.lvlib"/>
-		<Item Name="Test SenseHat Basic.vi" Type="VI" URL="../../doc/Test SenseHat Basic.vi"/>
+		<Item Name="Test SenseHat Basic.vi" Type="VI" URL="../RPI.SenseHat_Tests/Test SenseHat Basic.vi"/>
 		<Item Name="Test SenseHat Lib.vi" Type="VI" URL="../RPI.SenseHat_Tests/Test SenseHat Lib.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -147,7 +150,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/Raspberry Pi 2 B/Arrows.vi</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Raspberry Pi 2 B/SubVIs/globalArrows.vi</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
