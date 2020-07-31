@@ -1,0 +1,2079 @@
+<Cluster>
+<Name></Name>
+<NumElts>5</NumElts>
+<EW>
+<Name>TYPEDEF-FileSaveVersion</Name>
+<Choice>A</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name>diagramType</Name>
+<Choice>None</Choice>
+<Choice>Class</Choice>
+<Choice>Sequency</Choice>
+<Choice>State</Choice>
+<Choice>UseCase</Choice>
+<Val>1</Val>
+</EW>
+<String>
+<Name>DiagramData</Name>
+<Val></Val>
+</String>
+<Cluster>
+<Name>nodeInfo</Name>
+<NumElts>4</NumElts>
+<Array>
+<Name>NodeType</Name>
+<Dimsize>14</Dimsize>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>NoteNode</Val>
+</String>
+<String>
+<Name>Class name</Name>
+<Val>ClassNode</Val>
+</String>
+</Array>
+<Array>
+<Name>ParentIndex</Name>
+<Dimsize>14</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+<I32>
+<Name>index of element</Name>
+<Val>-1</Val>
+</I32>
+</Array>
+<Array>
+<Name>ChildernIndexies</Name>
+<Dimsize>14</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>1</NumElts>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+</Array>
+<Array>
+<Name>FlattenData</Name>
+<Dimsize>14</Dimsize>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;150.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;200.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;130.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;SenseHat_class\SenseHat.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;SenseHat&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;SenseHat.Display : mainI2CDevice
+SenseHat.Joystick : mainI2CDevice
+SenseHat.Sensors : senseHatSensors&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp
++New SenseHatDisplay
++New SenseHatJoystick
++New SenseHatSensors&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;610.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;140.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;150.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;84.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;mainI2CDevice_class\mainI2CDevice.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;mainI2CDevice&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;LINX Resource : STRING
+I2C Channel : UINT8
+I2C Slave Address : UINT8&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp
++New II2C
++ReadBytes
++WriteBytes
++Close II2C&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;840.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;140.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;90.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;imuSensor_class\imuSensor.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;imuSensor&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;840.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;210.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;120.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;pressureSensor_class\pressureSensor.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;pressureSensor&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;840.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;280.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;120.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;humiditySensor_class\humiditySensor.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;humiditySensor&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;420.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;390.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;160.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;370.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;154.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;196.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;senseHatDisplay_class\senseHatDisplay.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;senseHatDisplay&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;MainI2CDevice : mainI2CDevice
+Direction : direction
+Flip Horizontal : BOOL
+Flip Vertical : BOOL
+xStart : INT32
+xStop : INT32
+xStep : INT32
+yStart : INT32
+yStop : INT32
+yStep : INT32
+Screen : UINT32[][]&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp
++Get Image
++Get Display Direction
++Flip Horizontal
++Flip Vertical
++Reset
++Clear
++Fill
++Update
++Copy Colors to Screen
++Copy Screen to Colors
++Read Raw
++Write Raw&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;120.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;390.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;160.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;220.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;84.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;112.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;senseHatJoystick_class\senseHatJoystick.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;senseHatJoystick&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;MainI2CDevice : mainI2CDevice
+LeftKey : keyState
+RightKey : keyState
+UpKey : keyState
+DownKey : keyState
+EnterKey : keyState&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp
++Update
++Get LeftKey
++Get RightKey
++Get UpKey
++Get DownKey
++Get EnterKey&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;730.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;390.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;180.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;370.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;140.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;210.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;senseHatSensors_class\senseHatSensors.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;senseHatSensors&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;ImuSensor : imuSensor
+PressureSensor : pressureSensor
+HumiditySensor : humiditySensor
+Gyro : vector
+Acceleration : vector
+MagneticField : vector
+Pose : vector
+Pressure : DBL
+Temperature : DBL
+Humidity : DBL&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp
++Get ImuSensor
++Get PressureSensor
++Get HumiditySensor
++Get Pressure
++Get Temperature
++Get Humidity
++Get Gyro
++Get Acceleration
++Get MagneticField
++Get Pose
+-ImuReadingsChanged
+-PressureReadingsChanged
+-HumidityReadingsChanged&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;390.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;90.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;120.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;56.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;keyState.ctl&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&amp;lt;&amp;lt;ENUM&amp;gt;&amp;gt;
+keyState&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;Released
+Pressing
+Pressed
+Releasing&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;320.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;390.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;90.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;120.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;56.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;direction.ctl&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&amp;lt;&amp;lt;ENUM&amp;gt;&amp;gt;
+direction&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;deg0
+deg90
+deg180
+deg270&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;630.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;390.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;90.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;100.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;vector.ctl&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&amp;lt;&amp;lt;TYPE&amp;gt;&amp;gt;
+vector&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;x
+y
+z&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;500.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;150.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;90.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;120.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;56.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;Color_class\Color.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;Color&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;Red : UINT8
+Green : UINT8
+Blue : UINT8&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp
++fromRGB
+-RGB to RGB565&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;9&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;490.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;100.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;130.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;40.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;40&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;U32&gt;
+&lt;Name&gt;DEFAULT_COLOR&lt;/Name&gt;
+&lt;Val&gt;16777062&lt;/Val&gt;
+&lt;/U32&gt;
+&lt;I32&gt;
+&lt;Name&gt;FOLD_X&lt;/Name&gt;
+&lt;Val&gt;8&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;FOLD_Y&lt;/Name&gt;
+&lt;Val&gt;8&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;U32&gt;
+&lt;Name&gt;color&lt;/Name&gt;
+&lt;Val&gt;16777062&lt;/Val&gt;
+&lt;/U32&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;pointNodes&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;pointNode&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;Turned Color[,] into Image&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+<String>
+<Name>XML Out</Name>
+<Val>&lt;Cluster&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Attributes&lt;/Name&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Base class&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;parent&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Array&gt;
+&lt;Name&gt;children&lt;/Name&gt;
+&lt;Dimsize&gt;0&lt;/Dimsize&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;reference&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/Array&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Hidden&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;bounds&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;x&lt;/Name&gt;
+&lt;Val&gt;660.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;y&lt;/Name&gt;
+&lt;Val&gt;150.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;width&lt;/Name&gt;
+&lt;Val&gt;80.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;height&lt;/Name&gt;
+&lt;Val&gt;190.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;DBL&gt;
+&lt;Name&gt;midHeight&lt;/Name&gt;
+&lt;Val&gt;56.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;botHeight&lt;/Name&gt;
+&lt;Val&gt;112.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;name&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;methods&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_COMPARTMENT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;20&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_WIDTH&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;I32&gt;
+&lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
+&lt;Val&gt;60&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;Image_class\Image.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/Cluster&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;Image&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;Width : INT32
+Height : INT32
+Length : INT32
+Pixels : Color[][]&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;text&lt;/Name&gt;
+&lt;Val&gt;+Init
++CleanUp
++Get Width
++Get Height
++Get Length
++Get Pixels
++Clear
++Fill&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/Cluster&gt;
+</Val>
+</String>
+</Array>
+</Cluster>
+<Cluster>
+<Name>edgeInfo</Name>
+<NumElts>4</NumElts>
+<Array>
+<Name>EdgeType</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>Class name</Name>
+<Val></Val>
+</String>
+</Array>
+<Array>
+<Name>StartNodeIndex</Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+<Array>
+<Name>EndNodeIndex</Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>index of element</Name>
+<Val></Val>
+</I32>
+</Array>
+<Array>
+<Name>FlattenData</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>XML Out</Name>
+<Val></Val>
+</String>
+</Array>
+</Cluster>
+</Cluster>
