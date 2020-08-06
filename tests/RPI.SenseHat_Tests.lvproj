@@ -14,9 +14,9 @@
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
-	<Item Name="Raspberry Pi 2 B" Type="Raspberry Pi 2 B">
-		<Property Name="alias.name" Type="Str">Raspberry Pi 2 B</Property>
-		<Property Name="alias.value" Type="Str">192.168.0.23</Property>
+	<Item Name="Raspberry Pi 4" Type="Raspberry Pi 2 B">
+		<Property Name="alias.name" Type="Str">Raspberry Pi 4</Property>
+		<Property Name="alias.value" Type="Str">192.168.0.25</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;LINX_DEVICE,True;LINX_DEVICE_FAMILY,4;LINX_DEVICE_ID,3;</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
@@ -91,44 +91,29 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="Lib" Type="Folder">
+			<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
+			<Item Name="RPI.SenseHat.Display.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Display/RPI.SenseHat.Display.lvlib"/>
+			<Item Name="RPI.SenseHat.Joystick.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Joystick/RPI.SenseHat.Joystick.lvlib"/>
+			<Item Name="RPI.SenseHat.lvlib" Type="Library" URL="../../src/RPI.SenseHat/RPI.SenseHat.lvlib"/>
+		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="globalArrows.vi" Type="VI" URL="../RPI.SenseHat_Tests/globalArrows.vi"/>
 			<Item Name="Joystick Key To Displayed Arrow.vi" Type="VI" URL="../RPI.SenseHat_Tests/Joystick Key To Displayed Arrow.vi"/>
 		</Item>
-		<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
-		<Item Name="RPI.SenseHat.Display.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Display/RPI.SenseHat.Display.lvlib"/>
-		<Item Name="RPI.SenseHat.Joystick.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Joystick/RPI.SenseHat.Joystick.lvlib"/>
-		<Item Name="RPI.SenseHat.lvlib" Type="Library" URL="../../src/RPI.SenseHat/RPI.SenseHat.lvlib"/>
 		<Item Name="Test SenseHat Basic.vi" Type="VI" URL="../RPI.SenseHat_Tests/Test SenseHat Basic.vi"/>
 		<Item Name="Test SenseHat Lib.vi" Type="VI" URL="../RPI.SenseHat_Tests/Test SenseHat Lib.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
-				<Item Name="Casting Utility For Actors.vim" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Actor/Casting Utility For Actors.vim"/>
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
-				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="liblinxdevice.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/LINX/Resources/liblinxdevice.dll"/>
 				<Item Name="LMH-LINX.lvlib" Type="Library" URL="/&lt;vilib&gt;/MakerHub/LINX/LMH-LINX.lvlib"/>
-				<Item Name="NI_SystemLogging.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/SystemLogging/NI_SystemLogging.lvlib"/>
-				<Item Name="Reply Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Reply Msg/Reply Msg.lvclass"/>
-				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
-				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
-				<Item Name="Time-Delay Override Options.ctl" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delay Override Options.ctl"/>
-				<Item Name="Time-Delayed Send Message Core.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message Core.vi"/>
-				<Item Name="Time-Delayed Send Message.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-			</Item>
-			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
-			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="RPI.SenseHat.Actor.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Actor/RPI.SenseHat.Actor.lvlib"/>
-			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
@@ -163,30 +148,30 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[0].itemID" Type="Str">{873A867B-5097-4274-B216-7FD963A6B1D9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/Raspberry Pi 2 B/Test SenseHat Basic.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Raspberry Pi 4/Test SenseHat Basic.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/Raspberry Pi 2 B/SubVIs/globalArrows.vi</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Raspberry Pi 4/SubVIs/globalArrows.vi</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/Raspberry Pi 2 B/RPI.lvlib</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/Raspberry Pi 4/Lib/RPI.lvlib</Property>
 				<Property Name="Source[3].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Library</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/Raspberry Pi 2 B/RPI.SenseHat.Display.lvlib</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/Raspberry Pi 4/Lib/RPI.SenseHat.Display.lvlib</Property>
 				<Property Name="Source[4].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">Library</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/Raspberry Pi 2 B/RPI.SenseHat.Joystick.lvlib</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/Raspberry Pi 4/Lib/RPI.SenseHat.Joystick.lvlib</Property>
 				<Property Name="Source[5].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].type" Type="Str">Library</Property>
 				<Property Name="Source[6].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[6].itemID" Type="Ref">/Raspberry Pi 2 B/RPI.SenseHat.lvlib</Property>
+				<Property Name="Source[6].itemID" Type="Ref">/Raspberry Pi 4/Lib/RPI.SenseHat.lvlib</Property>
 				<Property Name="Source[6].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[6].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[6].type" Type="Str">Library</Property>

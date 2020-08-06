@@ -14,9 +14,9 @@
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
-	<Item Name="Raspberry Pi 2 B" Type="Raspberry Pi 2 B">
-		<Property Name="alias.name" Type="Str">Raspberry Pi 2 B</Property>
-		<Property Name="alias.value" Type="Str">192.168.0.23</Property>
+	<Item Name="Raspberry Pi 4" Type="Raspberry Pi 2 B">
+		<Property Name="alias.name" Type="Str">Raspberry Pi 4</Property>
+		<Property Name="alias.value" Type="Str">192.168.0.25</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;LINX_DEVICE,True;LINX_DEVICE_FAMILY,4;LINX_DEVICE_ID,3;</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
@@ -91,8 +91,10 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
-		<Item Name="RPI.SenseHat.Joystick.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Joystick/RPI.SenseHat.Joystick.lvlib"/>
+		<Item Name="Lib" Type="Folder">
+			<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
+			<Item Name="RPI.SenseHat.Joystick.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Joystick/RPI.SenseHat.Joystick.lvlib"/>
+		</Item>
 		<Item Name="Test SenseHat.Joystick.vi" Type="VI" URL="../RPI.SenseHat.Joystick_Tests/Test SenseHat.Joystick.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

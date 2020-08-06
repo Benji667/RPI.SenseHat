@@ -14,9 +14,9 @@
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
-	<Item Name="Raspberry Pi 2 B" Type="Raspberry Pi 2 B">
-		<Property Name="alias.name" Type="Str">Raspberry Pi 2 B</Property>
-		<Property Name="alias.value" Type="Str">192.168.0.23</Property>
+	<Item Name="Raspberry Pi 4" Type="Raspberry Pi 2 B">
+		<Property Name="alias.name" Type="Str">Raspberry Pi 4</Property>
+		<Property Name="alias.value" Type="Str">192.168.0.25</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;LINX_DEVICE,True;LINX_DEVICE_FAMILY,4;LINX_DEVICE_ID,3;</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
@@ -53,6 +53,34 @@
 		<Property Name="target.server.vi.access" Type="Str">+*</Property>
 		<Property Name="target.server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.vi.propertiesEnabled" Type="Bool">true</Property>
+		<Property Name="target.WebServer.Config" Type="Str">Listen 8000
+
+NI.ServerName default
+DocumentRoot "$LVSERVER_DOCROOT"
+TypesConfig "$LVSERVER_CONFIGROOT/mime.types"
+DirectoryIndex index.htm
+WorkerLimit 10
+InactivityTimeout 60
+
+LoadModulePath "$LVSERVER_MODULEPATHS"
+LoadModule LVAuth lvauthmodule
+LoadModule LVRFP lvrfpmodule
+
+#
+# Pipeline Definition
+#
+
+SetConnector netConnector
+
+AddHandler LVAuth
+AddHandler LVRFP
+
+AddHandler fileHandler ""
+
+AddOutputFilter chunkFilter
+
+
+</Property>
 		<Property Name="target.WebServer.Enabled" Type="Bool">false</Property>
 		<Property Name="target.WebServer.LogEnabled" Type="Bool">false</Property>
 		<Property Name="target.WebServer.LogPath" Type="Path">/c/ni-rt/system/www/www.log</Property>
@@ -63,8 +91,10 @@
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
-		<Item Name="RPI.SenseHat.Display.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Display/RPI.SenseHat.Display.lvlib"/>
+		<Item Name="Lib" Type="Folder">
+			<Item Name="RPI.lvlib" Type="Library" URL="../../src/RPI/RPI.lvlib"/>
+			<Item Name="RPI.SenseHat.Display.lvlib" Type="Library" URL="../../src/RPI.SenseHat.Display/RPI.SenseHat.Display.lvlib"/>
+		</Item>
 		<Item Name="Test SenseHat Clear.vi" Type="VI" URL="../RPI.SenseHat.Display_Tests/Test SenseHat Clear.vi"/>
 		<Item Name="Test SenseHat Display Image.vi" Type="VI" URL="../RPI.SenseHat.Display_Tests/Test SenseHat Display Image.vi"/>
 		<Item Name="Test SenseHat Fill.vi" Type="VI" URL="../RPI.SenseHat.Display_Tests/Test SenseHat Fill.vi"/>
